@@ -1,0 +1,5 @@
+('c:\\program files\\python37\\lib\\site-packages\\plyer-1.4.2-py3.7.egg',
+ None,
+ {'*.pyc', '*.pyd', '*.pyw', '*.py', '*.cp37-win_amd64.pyd', 'EGG-INFO'},
+ 'DATA',
+ [])
